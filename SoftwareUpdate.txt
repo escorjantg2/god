@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Add type hinting to explorer.py (#7388)
